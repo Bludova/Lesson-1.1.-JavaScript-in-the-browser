@@ -1,5 +1,4 @@
 'use strict';
-'use strict';
 
 const formSignIn = document.querySelector('.sign-in-htm');
 const formSignUp = document.querySelector('.sign-up-htm');
